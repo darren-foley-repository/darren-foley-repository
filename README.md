@@ -1,0 +1,4 @@
+- Name: **Darren Foley**
+- Occupation: **Data Engineer / Tech Lead**
+- How to Reach me?: **darren.foley91@hotmail.com**
+- Interests: RHEL Linux, System Administration, Data Engineering (Mostly on GCP) & CI/CD
